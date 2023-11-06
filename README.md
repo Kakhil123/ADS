@@ -1,5 +1,5 @@
 Product Demand Prediction with Machine Learning
-Introduction
+Introduction.
 Welcome to the Product Demand Prediction with Machine Learning README. This document provides an overview of the project, its objectives, and instructions on how to use and deploy the machine learning model for predicting product demand.
 
 Table of Contents
